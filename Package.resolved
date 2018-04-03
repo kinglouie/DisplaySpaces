@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CoreGraphicsExtension",
+        "repositoryURL": "https://github.com/kinglouie/CoreGraphicsExtension",
+        "state": {
+          "branch": "master",
+          "revision": "207e17c30211ff2c1ce554e8b50199e7f5d0685d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
